@@ -1,0 +1,11 @@
+which country hosts the competition the most
+which university is the most participated in the competition
+what is the avarage number of teams every year
+which university won the gold prize the most
+which university won the silver prize the most
+which university won the bronze prize the most
+what is the avarage score scored by teams
+what is the avarage penatly
+is their a relation between the total number of problems and the score achieved
+is their a relation between the time of competition and the champion
+is their a relation to predict when the competition will be hold
